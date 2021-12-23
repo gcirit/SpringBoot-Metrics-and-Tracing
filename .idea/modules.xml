@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Metrics and Tracing.iml" filepath="$PROJECT_DIR$/.idea/Metrics and Tracing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/client/client.iml" filepath="$PROJECT_DIR$/basic/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/service/service.iml" filepath="$PROJECT_DIR$/basic/service/service.iml" />
+    </modules>
+  </component>
+</project>
